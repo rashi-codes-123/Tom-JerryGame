@@ -22,9 +22,9 @@ The goal of the game is to collect all the food and safely reach Jerry’s house
 
 ## Technologies and Tools used
 
--JavaScript
--p5.js library
--GitHub Pages (for deployment)
+- JavaScript
+- p5.js library
+- GitHub Pages (for deployment)
 
 ## Click link below to play
 
