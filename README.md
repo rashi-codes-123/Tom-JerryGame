@@ -1,9 +1,9 @@
-#TOM&JERRY Mini game
+# TOM&JERRY Mini game
 -This is an interactive game built using JavaScript and p5.js. In this game, the player controls Jerry and tries to collect all the food items while avoiding Tom and falling into pits.
 
 -The goal of the game is to collect all the food and safely reach Jerry’s house. If Jerry touches Tom or falls into a pit, the game ends.
 
-##How to Play
+## How to Play
 
 -Use arrow keys to move Jerry (up, down, left, right)
 -Collect all the food items on the screen
@@ -11,7 +11,7 @@
 -Avoid pits
 -After collecting all food, reach the house to win
 
-##Feature
+## Feature
 
 -Player movement using keyboard controls
 -Enemy AI (Tom chases Jerry when Jerry is nearby)
@@ -20,7 +20,7 @@
 -Random placement of food and obstacles
 
 
-##Technologies and Tools used
+## Technologies and Tools used
 
 -JavaScript
 -p5.js library
